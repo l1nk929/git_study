@@ -1,2 +1,2 @@
-Git is a good tool
-haha line2.
+输入中文第一行
+输入中文第二行
