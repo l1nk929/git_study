@@ -1,1 +1,1 @@
-Create a new branch called dev.
+Main branch called master.
